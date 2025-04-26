@@ -6,7 +6,7 @@ License: You receive a non-exclusive, non-transferable right to install and use 
 
 Restrictions: You may not share, sell, reverse-engineer, modify, or redistribute the app.
 
-Privacy: Data collection and use are governed by our Privacy Policy (link).
+Privacy: Data collection and use are governed by our [Privacy Policy](https://b4udie.github.io/spy-terms/terms.html).
 
 Support: No maintenance or support is provided.
 
@@ -44,7 +44,7 @@ Apple is not responsible for providing support.
 
 5. Use of Data & Privacy
 Licensor may collect and use data as described in our Privacy Policy:
-(link)
+https://b4udie.github.io/spy-terms/terms.html
 
 If you are an EU resident, you have additional rights under the GDPR (access, correction, deletion, etc.).
 
