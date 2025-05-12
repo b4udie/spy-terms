@@ -46,4 +46,4 @@ If you have any questions or requests about this Privacy Policy, please contact:
 
 Valentyn Bratkevych
 📧 bratkevychv@gmail.com
-🌐 https://b4udie.github.io/spy-terms/privacy.html
+🌐 https://b4udie.github.io/spy-terms/terms.html
