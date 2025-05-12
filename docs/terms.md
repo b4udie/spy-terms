@@ -1,91 +1,74 @@
-END USER LICENSE AGREEMENT
-Last updated April 27, 2025
+Privacy Policy
+Last updated: May 12, 2025
 
-Summary of Key Terms
-License: You receive a non-exclusive, non-transferable right to install and use Spy: 10,000 locations! on Apple devices you own.
+Spy: 10,000 Locations! (“we”, “us” or “our”) respects your privacy. This Privacy Policy explains what information we collect, how we use it, and what choices you have.
 
-Restrictions: You may not share, sell, reverse-engineer, modify, or redistribute the app.
+1. Information We Collect
+1.1 Personal Data
+Email address, username or other identifiers you provide when you contact support or create an account.
 
-Privacy: Data collection and use are governed by our [Privacy Policy](https://b4udie.github.io/spy-terms/terms.html).
+Any user‐generated content you submit in the app (e.g. text for Contributions).
 
-Support: No maintenance or support is provided.
+1.2 Technical & Usage Data
+Device information: model, operating system version, language, time zone, screen resolution.
 
-Liability: Licensor’s liability is limited to intent and gross negligence; no liability for indirect or incidental damages.
+App usage: feature interactions, sessions, screens viewed, crash logs (via Sentry or similar SDK).
 
-Governing Law: This Agreement is governed by the laws of Ukraine, excluding conflict-of-law rules.
+1.3 Advertising Data (New)
+When you use our app with personalized advertising enabled, we and our advertising partners (e.g. Google AdMob) may collect:
 
-EU Users: You have rights under the GDPR; see our Privacy Policy for details.
+Advertising Identifier: IDFA on iOS (or advertising ID on Android)
 
-1. Definitions
-“Application” means Spy: 10,000 locations! for iOS.
+Network data: IP address, connection type (Wi-Fi or cellular)
 
-“Licensor” means Valentyn Bratkevych, Kyiv, Ukraine 10100 (email bratkevychv@gmail.com).
+Approximate location: derived from IP or, if you grant permission, from GPS
 
-“You” or “End-User” means the individual who downloads or uses the Application.
+Ad engagement: impressions, clicks, conversions
 
-2. Scope of License
-You may install and use the Application on Apple-branded devices you own or control.
+Other data used for ad targeting: demographics, interest segments, device usage patterns
 
-This license covers updates provided by Licensor, unless a separate license is attached.
+Note: If you decline to allow tracking via ATT on iOS (or disable personalized ads in GDPR regions), we will request non-personalized ads only and will not access your IDFA.
 
-You may not share, sell, rent, lend, lease, redistribute, reverse-engineer, decompile, modify, or create derivative works of the Application.
+2. How We Use Your Information
+Operate & improve the app: to deliver and maintain features, fix bugs, analyze usage.
 
-You may make backup copies only on devices you own, and must retain all copyright and trademark notices.
+Personalize your experience: for example, remembering settings or progress in game rounds.
 
-3. Technical Requirements
-You are responsible for ensuring your device meets any technical requirements for running the Application.
+Show you ads: we only show you personalized ads if you consent; otherwise, you’ll see generic (non-personalized) ads.
 
-Licensor may update system requirements at any time without notice.
+Communicate with you: send important notices, security alerts, or support messages.
 
-4. No Maintenance or Support
-Licensor has no obligation to provide any maintenance, technical support, or updates.
+3. Third-Party Services
+We use the following third-party services that may collect, store, and use your data:
 
-Apple is not responsible for providing support.
+Service	Purpose	Data Collected	Service Privacy URL
+Google AdMob	Advertising	Advertising ID (IDFA), device info, IP, ad events	https://policies.google.com/privacy
 
-5. Use of Data & Privacy
-Licensor may collect and use data as described in our Privacy Policy:
-https://b4udie.github.io/spy-terms/terms.html
+4. Data Sharing and Disclosure
+We do not sell your personal data. We may share data with:
 
-If you are an EU resident, you have additional rights under the GDPR (access, correction, deletion, etc.).
+Service providers (e.g. AdMob, Sentry) to operate our app.
 
-6. User-Generated Contributions
-The Application may allow you to submit text, images, or other content (“Contributions”).
+Legal authorities if required by law.
 
-You retain ownership of your Contributions but grant Licensor a license to use, reproduce, and display them.
+5. Your Choices
+In-App Settings: You can disable personalized ads via the in-app “Settings → Ads” toggle.
 
-You warrant that your Contributions do not violate third-party rights or applicable law.
+iOS ATT: On iOS 14+, go to Settings → Privacy → Tracking to allow or deny tracking per app.
 
-7. Limitation of Liability
-Licensor’s liability for damages is limited to those caused by intent or gross negligence.
+EU GDPR: You have the right to access, rectify, delete, or port your data. To exercise your rights, contact us at the email below.
 
-Licensor is not liable for indirect, incidental, special, or consequential damages.
+6. Children’s Privacy
+Our app is not directed to children under 16. We do not knowingly collect data from users under 16. If you believe we have inadvertently collected such data, please contact us to have it deleted.
 
-8. Warranty
-Licensor warrants at download the Application is free of malware and functions as described.
+7. Changes to this Policy
+We may update this policy from time to time. We’ll post the “Last updated” date at the top and, where appropriate, notify you within the app.
 
-No warranty covers unauthorized modifications, misuse, or external causes beyond Licensor’s control.
-
-To make a warranty claim, notify Licensor via email within 30 days of discovering a defect.
-
-9. Product Claims
-Licensor, not Apple, is responsible for addressing any claims related to the Application (product liability, compliance, consumer protection).
-
-10. Legal Compliance
-You represent you are not located in a country subject to U.S. embargo or on any U.S. prohibited-party list.
-
-11. Termination
-This license is effective until terminated. It terminates automatically if you breach any term. Upon termination, destroy all copies of the Application.
-
-12. Third-Party Terms & Beneficiary
-You must comply with any applicable third-party terms when using the Application.
-
-Apple and its subsidiaries are third-party beneficiaries and may enforce this Agreement.
-
-13. Intellectual Property Rights
-Licensor, not Apple, is solely responsible for any third-party intellectual property claims.
-
-14. Governing Law
-This Agreement is governed by the laws of Ukraine, without regard to its conflict-of-law rules.
+8. Contact Us
+If you have any questions or requests regarding this Privacy Policy, please email:
+Valentyn Bratkevych
+📧 bratkevychv@gmail.com
+🌐 https://b4udie.github.io/spy-terms/privacy.html
 
 15. Miscellaneous
 If any provision is invalid, the remainder stays in effect and the invalid provision will be reformed to the extent necessary to reflect the parties’ original intent.
